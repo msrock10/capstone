@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    background-color: #00e6cf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(234, 0, 255);
+    padding: 1px;
+}
+.topnav a{
+    float: left;
+    color: rgb(98, 255, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: blue;
+    color: greenyellow;
+}
+.topnav a.active{
+    background-color: rgb(51, 253, 11);
+    color: chocolate;
+}
+h1{
+    background-color: rgb(247, 15, 15);
+    color:blue ;
+    text-align: center;
+    height: 300;
+    width: 300;
+    font-size: xxx-large;
+    font-family:e;
+    padding: 19px;
+    margin: 0px;
+}
+p{
+    background-color: rgb(15, 54, 247);
+    color:rgb(255, 0, 0) ;
+    text-align: center;
+    height: 300;
+    width: 300;
+    font-size: larger;
+    font-family:e;
+    
+} 
+
+footer{
+    background-color: blue;
+    color: red;
+    position:fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+}

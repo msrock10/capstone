@@ -4,7 +4,7 @@ function carousel() {
 
 var i;
 
-var x = document.getElementsByClassName("myslides");
+var x = document.getElementsByClassName("my-slides");
 
 for (i = 0; i < x.length; i++) {
 
