@@ -55,3 +55,11 @@ footer{
     text-align: center;
     font-size: x-large;
 }
+button{
+background-color: rgb(255, 0, 0);
+    color: rgb(0, 4, 255);
+    position:fixed;
+  
+    text-align: center;
+ 
+}
